@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Junction";
+  src: url("Junction.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, h1, h2, p {
+	font-family: 'Junction', 'Helvetica Neue';
+	color: white;
+}
+
+body {
+	margin-top: 3em;
+	background-color: black;
+}
+
+h1 {
+	font-size: 122px
+}
