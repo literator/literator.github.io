@@ -19,6 +19,24 @@ h1 {
 	font-size: 100px
 }
 
+a:link, a:visited {
+	padding: 2px 2px 0px 2px;
+}
+
+a:hover {
+	background-color: white;
+	color: black;	
+}
+
+.social a:visited, a:link {
+	color: white;
+}
+
+.social a:hover {
+	background-color: black;
+	color: #0078a0;
+}
+
 .big {
 	font-size: 34px;
 }
