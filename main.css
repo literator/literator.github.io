@@ -16,9 +16,19 @@ body {
 }
 
 h1 {
-	font-size: 122px
+	font-size: 100px
 }
 
 .big {
 	font-size: 34px;
+}
+
+.branding {
+    height: 400px;
+    width: 400px;
+    margin-bottom: 30px;	
+}
+
+.footer {
+	margin-top: 20px;
 }
