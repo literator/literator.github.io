@@ -44,6 +44,15 @@ a:hover {
 	font-size: 34px;
 }
 
+img.big {
+	width: 30px;
+	height: 30px;
+}
+
+.passbook {
+	margin-top: 8px;
+}
+
 .branding {
     max-height: 400px;
     max-width: 400px;
